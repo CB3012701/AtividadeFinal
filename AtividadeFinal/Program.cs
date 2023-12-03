@@ -13,8 +13,7 @@ namespace AtividadeFinal
         {
             /*
 * PARTICIPANTES
-* LUCAS HENRIQUE DE SOUZA SANTOS CB3012212
-* KETHELEEN CRISTINE SIMÃO DOS SANTOS
+* ÉRICA BARBOSA PEREIRA LOBO  CB3012701
 */
 
             var locacaoController = new LocacaoController();
